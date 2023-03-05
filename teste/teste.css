@@ -1,0 +1,24 @@
+.Bicicleta {
+  background: #111;
+  width: 1000px;
+  height: 150px;
+  padding: 20px;
+  border-radius: 4px;
+}
+
+.Bicicleta {
+  background: #111;
+  width: 1000px;
+  height: 150px;
+  padding: 20px;
+  border-radius: 4px;
+}
+
+.botao {
+  background: #febe01;
+  color: #111;
+  padding: 10px;
+  border-radius: 4px;
+  display: inline-block;
+  text-decoration: none;
+}
